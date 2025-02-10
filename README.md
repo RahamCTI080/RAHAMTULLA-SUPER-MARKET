@@ -28,16 +28,7 @@ The **RAHAMTULLA SUPER MARKET** billing system is a application developed using 
    ```bash
    pip install -r requirements.txt
    ```
-3. Configure the database:
-   - Create a MySQL database named `billing_system`.
-   - Import the provided SQL file (`database.sql`) to set up tables.
-4. Update `settings.py` with database credentials.
-5. Run the application:
-   ```bash
-   python manage.py runserver
-   ```
-6. Open the browser and visit `http://127.0.0.1:8000/` to access the system.
-
+   
 ## Usage Instructions
 - **Admin Panel**: Log in as an admin to manage products, users, and inventory.
 - **Billing**: Select products, enter quantity, and generate a bill.
