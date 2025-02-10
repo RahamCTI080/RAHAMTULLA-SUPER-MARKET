@@ -21,8 +21,8 @@ The **RAHAMTULLA SUPER MARKET** billing system is a application developed using 
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/billing-system.git
-   cd billing-system
+   git clone https://github.com/RahamCTI080/RAHAMTULLA-SUPER-MARKET.git
+   cd  RAHAMTULLA-SUPER-MARKET
    ```
 2. Install required dependencies:
    ```bash
